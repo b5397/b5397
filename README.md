@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @b5397
-- 👀 I’m interested in Machine learning 
-- 🌱 I’m currently learning Deep leaarning 
+- 👋 Hi, I’m Bhushan Davare
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Machine learning......! 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: bhushan.daware5397@gmail.com
 
